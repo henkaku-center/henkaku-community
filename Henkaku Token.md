@@ -2,24 +2,22 @@
 
 Draft December 1, 2021 - 07:45:32
 
-Some notes on a potential token for 変革会.
+Henkaku tokens are a non-commercial, social token for the 変革会 community. The tokens will be distributed to community members for non-commercial contributions to the community, for example, providing feedback and comments to Joi Ito's Podcast, participating in and helping with community events and writing and creating content for the community.
 
-## Summary
+The tokens can used to vote on community decisions.The community may also conduct events or create communication channels available only to token holders. The token may also be traded between members of the community in exchange for non-commercial social activity such as advice or help on projects.
 
+## Rules
+
+Breaching any of the following rules will cause the member to be banned from the community indefinitely. The community may halt all trading and freeze the currency if the breach is irrersibly severe.
+
+- The tokens may only be held by community members and may never be given or traded to non-community members.
 - The tokens do not have any commercial value and any activity that suggests that the tokens have commercial value is forbidden.
-- The tokens will be issued to community members as rewards for activities that benefit the community such as participating in events, help organizing events, contributing code, ideas, text or other scholarly and community-oriented content to community projects.
-- The tokens will be used to provide access to events and in exchange for rewards that have community value, but not commercial value.
-- Things received in exchange for the tokens may not be sold or traded for money or anything of commercial value.
-- Tokens maybe traded to other community members in exchanges for goods and services that have no commercial value.
+- Members providing services, objects or access to information or communications may not provide anything that can also be purchases for money. For example, any events which can be attended by spending tokens may not also sell access for money. Any items given in exchange for token may not be items that can be purchased for money.
 
-## Commercial Value
+## How To
 
-- Money,  objects that can easily be sold for money or anything that is frequently sold for money represents things that have commercial value.
-- Some times of labor have obvious commercial value. For example, a lawyer who always charges for their time should not provide such professional services in exchange for tokens. On the other hand, if the lawyer engages in substantial pro bono (unpaid and volunteer) services, pro bono hours could be classified and non-commercial and traded for tokens.
-- Things that can not be sold for money such as scholarly credentials do not have commercial value.
-
-## The Community
-
-- Tokens are only valid when held by active community members.
-- Any member breaking community roles will be banned from the community and not permitted to participate in any community event or transaction.
-- Tokens will be used by community members to permit voting on community decision, providing access to community events and other features of the community.
+- In order to be a community member, please fill out [this form](https://airtable.com/shrO7yOVqbeymYSOW) and provide your ETH address. If you don't don't have a wallet, please install [MetaMask](https://metamask.io/) or the equivalent. Instructions in Japanese [here](https://joi.ito.com/jp/archives/2021/11/08/005731.html).
+- After you get your wallet, send a message to @joiito on Discord to get a link to receive your initial tokens.
+- The token address on the Polygon blockchain is : [0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E](https://polygonscan.com/token/0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E) and is called $HENKAKU.
+- You must have Polygon configured on your wallet. You can see instructions for MetaMask [here](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
+- To add the token on MetaMask so you can see it, scroll to the bottom of the Assets section of the wallet, click "Import Tokens" and enter the token contract address `0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E`.
