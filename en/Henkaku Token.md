@@ -1,6 +1,6 @@
 # Henkaku Tokens
 
-Draft December 1, 2021 - 07:45:32
+Draft December 1, 2021 - 09:36:19
 
 Henkaku tokens are a non-commercial, social token for the 変革会 community. The tokens will be distributed to community members for non-commercial contributions to the community, for example, providing feedback and comments to Joi Ito's Podcast, participating in and helping with community events and writing and creating content for the community.
 
@@ -8,7 +8,7 @@ The tokens can used to vote on community decisions.The community may also conduc
 
 ## Rules
 
-Breaching any of the following rules will cause the member to be banned from the community indefinitely. The community may halt all trading and freeze the currency if the breach is irrersibly severe.
+Breaching any of the following rules will cause the member to be banned from the community indefinitely. The community may halt all trading and freeze the currency if the breach is irreversibly severe.
 
 - The tokens may only be held by community members and may never be given or traded to non-community members.
 - The tokens do not have any commercial value and any activity that suggests that the tokens have commercial value is forbidden.
