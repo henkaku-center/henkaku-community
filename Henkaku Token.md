@@ -21,3 +21,4 @@ Breaching any of the following rules will cause the member to be banned from the
 - The token address on the Polygon blockchain is : [0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E](https://polygonscan.com/token/0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E) and is called $HENKAKU.
 - You must have Polygon configured on your wallet. You can see instructions for MetaMask [here](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
 - To add the token on MetaMask so you can see it, scroll to the bottom of the Assets section of the wallet, click "Import Tokens" and enter the token contract address `0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E`.
+- We are using [snapshot.org](https://snapshot.org/#/henkaku.eth/) for creating and voting on community proposals.
