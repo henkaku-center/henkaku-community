@@ -16,7 +16,7 @@ Breaching any of the following rules will cause the member to be banned from the
 
 ## How To
 
-- In order to be a community member, please fill out [this form](https://airtable.com/shrO7yOVqbeymYSOW) and provide your ETH address. If you don't don't have a wallet, please install [MetaMask](https://metamask.io/) or the equivalent. Instructions in Japanese [here](https://joi.ito.com/jp/archives/2021/11/08/005731.html).
+- In order to be a community member, please fill out [this form](https://airtable.com/shrO7yOVqbeymYSOW) and provide your ETH address. If you don't have a wallet, please install [MetaMask](https://metamask.io/) or the equivalent. Instructions in Japanese [here](https://joi.ito.com/jp/archives/2021/11/08/005731.html).
 - After you get your wallet, send a message to @joiito on Discord to get a link to receive your initial tokens.
 - The token address on the Polygon blockchain is : [0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E](https://polygonscan.com/token/0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E) and is called $HENKAKU.
 - You must have Polygon configured on your wallet. You can see instructions for MetaMask [here](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
