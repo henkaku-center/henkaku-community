@@ -1,3 +1,4 @@
-# Table of Contents
+# Table of contents
 
-* [The 変革会 Token](en/Henkaku%20Token.md)
+* [README](README.md)
+* [The 変革会 Token](<en/Henkaku Token.md>)
