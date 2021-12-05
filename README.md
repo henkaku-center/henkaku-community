@@ -1,5 +1,5 @@
-# The 変革　Community
+# README
 
 ## Projects
 
-* [The 変革会 Token](en/Henkaku%20Token.md)
+* [The 変革会 Token](henkaku-token.md)
