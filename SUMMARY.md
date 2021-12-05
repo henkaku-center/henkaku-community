@@ -1,4 +1,5 @@
 # Table of contents
 
 * [README](README.md)
-* [変革会トークン](henkaku-token.md)
+* [The 変革会 Token](henkaku-token.md)
+* [変革会のトークン](henkaku-token-ja.md)
