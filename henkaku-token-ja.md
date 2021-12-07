@@ -21,6 +21,6 @@ $HENKAKU トークン(以下、トークン)は、変革会コミュニティの
 - コミュニティメンバーになるには、[フォーム](https://airtable.com/shrO7yOVqbeymYSOW)に必要事項とあなたのETHアドレスを入力してください。 ウォレットをお持ちでない場合は、MetaMaskまたは同等のものをインストールしてください。 [日本語での説明はこちら](https://joi.ito.com/jp/archives/2021/11/08/005731.html)。
 - ウォレットを入手したら、Discordの `@joiito` にメッセージを送ってください。最初のトークンを受け取るためのリンクを差し上げます。
 - トークンは$HENKAKUと呼ばれ、Polygonブロックチェーンにおけるアドレスは次の通りです:  [0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E](https://polygonscan.com/token/0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E)
-- トークンを受け取る前にウォレットにPolygon用の設定が必要な場合があります。MetaMaskウォレットを使用されている場合、[こちらに説明があります](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)。
+- トークンを受け取る前にウォレットにPolygon用の設定が必要です。MetaMaskウォレットを使用されている場合、[こちらに説明があります](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)。
 - MetaMaskにトークンを追加する場合、Assetセクションの下までスクロールし、”Import Tokens”をクリックし、次のトークンコントラクトアドレスを入力してください: `0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E`
 - コミュニティプロポーザルの作成および投票には [snapshots.org](https://snapshot.org/#/henkaku.eth/) を利用しています。
