@@ -16,11 +16,37 @@ $HENKAKU トークン(以下、トークン)は、変革会コミュニティの
 - トークンには金銭的な価値はなく、トークンに商業的価値があることを示唆するような活動は禁止されています。
 - サービスや物品、または情報や通信へのアクセスを提供するメンバーは、金銭で購入できるものを提供することはできません。 たとえば、トークンを使うことで参加できるイベントには、お金を払って参加することはできません。 トークンと交換することで手に入れられる物は、お金で購入できる物ではないこともあります。 特に、トークンを現金で売買したり、暗号通貨とトークンを交換したりすることは固く禁じられています。
 
-## トークンの入手方法
+## $HENAKAKUトークンの入手方法
 
 - コミュニティメンバーになるには、[フォーム](https://airtable.com/shrO7yOVqbeymYSOW)に必要事項とあなたのETHアドレスを入力してください。 ウォレットをお持ちでない場合は、MetaMaskまたは同等のものをインストールしてください。 [日本語での説明はこちら](https://joi.ito.com/jp/archives/2021/11/08/005731.html)。
+<<<<<<< HEAD
 - ウォレットを入手したら、Discordの `@joiito` にメッセージを送ってください。最初のトークンを受け取るためのリンクを差し上げます。
 - トークンは$HENKAKUと呼ばれ、Polygonブロックチェーンにおけるアドレスは次の通りです:  [0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E](https://polygonscan.com/token/0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E)
 - トークンを受け取る前にウォレットにPolygon用の設定が必要です。MetaMaskウォレットを使用されている場合、[こちらに説明があります](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)。
+=======
+- トークンを受け取る前にウォレットにPolygon用の設定が必要な場合があります。MetaMaskウォレットを使用されている場合、[こちらに説明があります](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)。
+  - MetaMaskを開いたらネットワーク選択のドロップダウンをクリックします
+  - Custom RPCを選択して下記情報を入れます
+    - Network Name: Polygon Mainnet
+    - New RPC URL: https://polygon-rpc.com/
+    - Chain ID: 137
+    - Currency Symbol: MATIC
+    - Block Explorer URL: https://polygonscan.com
+>>>>>>> update how to get henakaku token only jp page
 - MetaMaskにトークンを追加する場合、Assetセクションの下までスクロールし、”Import Tokens”をクリックし、次のトークンコントラクトアドレスを入力してください: `0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E`
+  - 0 HENAKAKUと表示されればウォレットの設定は完了です
+  - トークンは$HENKAKUと呼ばれ、Polygonブロックチェーンにおけるアドレスは次の通りです:  [0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E](https://polygonscan.com/token/0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E)
+- Henkaku Discordにログインして、👋wellcomeと🚀start-hereを読んでください。案内に従うと他のチャンネルへのアクセス権を獲得することができます。
+- #memberチャンネルで挨拶をしたら、`!register` コマンドを叩いてください。
+  - Collab.LandというアカウントからDMがきます。このアカウントの案内にしたがってMetaMaskを連携してください。
+  - 注意: botと同じ名前を名乗ったscamユーザーがメッセージを送ってくる場合もあるらしいのでBOTかどうかリンクをクリックする前に目視確認をお願いします。
+  - 注意: 初期設定がDMをブロックしている可能性があるので下記を参考に許可してください。
+    - https://support.discord.com/hc/ja/articles/217916488-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E8%A8%AD%E5%AE%9A
+- DiscordにMetaMaskが連携できたら、コミュニティーのメンバーからHENAKUトークンが付与されます。
+  - 自身の保有するトークンを他者にtippingする場合、gas feeが発生します。gae feeにはMATICが必要になりますが、現状国内の大手取引所では取り扱いがない状況です。
+  - [JPYC](https://jpyc.jp/)経由の購入が日本人だと安く購入することができるかと思います。
+  - MATICの入手方法に関しては現状模索中ですのでアップデートがあり次第反映します。
+
+## $HENKAKUトークンの利用用途
 - コミュニティプロポーザルの作成および投票には [snapshots.org](https://snapshot.org/#/henkaku.eth/) を利用しています。
+- snapshotはトークン保有者のみが機能を利用することができます。
