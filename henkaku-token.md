@@ -1,12 +1,12 @@
-# The 変革会 Token
+# The Henkaku Token
 
 Draft December 4, 2021 - 15:09:43
 
 Version 0.2 beta
 
-Henkaku tokens are a non-commercial, social token for the 変革会 community. The tokens will be distributed to community members for non-commercial contributions to the community, for example, providing feedback and comments to Joi Ito's Podcast, participating in and helping with community events and writing and creating content for the community. Community members cannot sell or purchase tokens.
+Henkaku tokens are a non-commercial, social token for the Henkaku community. The tokens will be distributed to community members for non-commercial contributions to the community, for example, providing feedback and comments to Joi Ito's Podcast, participating in and helping with community events and writing and creating content for the community. Community members cannot sell or purchase tokens.
 
-The tokens can be used to vote on community decisions.The community may also conduct events or create communication channels available only to token holders. The token may also be traded between members of the community in exchange for non-commercial social activity such as advice or help on projects.
+The tokens can be used to vote on community decisions. The community may also conduct events or create communication channels available only to token holders. The token may also be traded between members of the community in exchange for non-commercial social activity such as advice or help on projects.
 
 ## Rules
 
