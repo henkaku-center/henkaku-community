@@ -24,3 +24,4 @@ Breaching any of the following rules will cause the member to be banned from the
 * You must have Polygon configured on your wallet. You can see instructions for MetaMask [here](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
 * To add the token on MetaMask so you can see it, scroll to the bottom of the Assets section of the wallet, click "Import Tokens" and enter the token contract address `0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E`.
 * We are using [snapshot.org](https://snapshot.org/#/henkaku.eth/) for creating and voting on community proposals.
+* In order to transfer $HENKAKU after you receive some, you will need $MATIC to pay for the gas/transaction fee. Currently, it is difficult to get in Japan so please ask someone on Discord to give you some. The transaction fees are very low so you don't need very much to be able to give $HENKAKU to others.
