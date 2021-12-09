@@ -34,7 +34,7 @@ Breaching any of the following rules will cause the member to be banned from the
 * After saying hello in the #member channel, hit the `!register` command.
   * You will get a DM from an account called Collab.Land. Please follow the instructions of this account to link MetaMask.
   * :note: Some scam users with the same name as the bot may send you a message, so please check visually before clicking on the link to see if it is a bot.
-  * :note: The default setting may be blocking DMs, so please check [here](https://support.discord.com/hc/ja/articles/217916488-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81% A8%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E8%A8%AD%E5%AE%9A).
+  * :note: The default setting may be blocking DMs, so please check [here](https://support.discord.com/hc/ja/articles/217916488-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E8%A8%AD%E5%AE%9A).
 * Once MetaMask is linked to Discord, community members will give you a $HENAKU token.
 * In order to transfer $HENKAKU after you receive some, you will need $MATIC to pay for the gas/transaction fee. Currently, it is difficult to get in Japan so please ask someone on Discord to give you some. The transaction fees are very low so you don't need very much to be able to give $HENKAKU to others.
 
