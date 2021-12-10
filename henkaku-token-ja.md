@@ -16,7 +16,7 @@ $HENKAKU トークン(以下、トークン)は、変革会コミュニティの
 - トークンには金銭的な価値はなく、トークンに商業的価値があることを示唆するような活動は禁止されています。
 - サービスや物品、または情報や通信へのアクセスを提供するメンバーは、金銭で購入できるものを提供することはできません。 たとえば、トークンを使うことで参加できるイベントには、お金を払って参加することはできません。 トークンと交換することで手に入れられる物は、お金で購入できる物ではないこともあります。 特に、トークンを現金で売買したり、暗号通貨とトークンを交換したりすることは固く禁じられています。
 
-## $HENAKAKUトークンの入手方法
+## $HENKAKUトークンの入手方法
 
 - コミュニティメンバーになるには、[フォーム](https://airtable.com/shrO7yOVqbeymYSOW)に必要事項とあなたのETHアドレスを入力してください。 ウォレットをお持ちでない場合は、MetaMaskまたは同等のものをインストールしてください。 [日本語での説明はこちら](https://joi.ito.com/jp/archives/2021/11/08/005731.html)。
 - トークンを受け取る前にウォレットにPolygon用の設定が必要な場合があります。MetaMaskウォレットを使用されている場合、[こちらに説明があります](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)。
@@ -28,14 +28,14 @@ $HENKAKU トークン(以下、トークン)は、変革会コミュニティの
     - Currency Symbol: MATIC
     - Block Explorer URL: https://polygonscan.com
 - MetaMaskにトークンを追加する場合、Assetセクションの下までスクロールし、”Import Tokens”をクリックし、次のトークンコントラクトアドレスを入力してください: `0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E`
-  - 0 HENAKAKUと表示されればウォレットの設定は完了です
+  - 0 HENKAKUと表示されればウォレットの設定は完了です
   - トークンは$HENKAKUと呼ばれ、Polygonブロックチェーンにおけるアドレスは次の通りです:  [0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E](https://polygonscan.com/token/0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E)
 - Henkaku Discordサーバーにログインして、👋welcomeと🚀start-hereを読んでください。案内に従うと他のチャンネルへのアクセス権を獲得することができます。
 - #memberチャンネルで自己紹介をしたら、#joinチャンネルへ移動し、`!register` コマンドを入力してください。
   - coinvise-botというアカウントからDMがきます。案内にしたがってMetaMask、またはご自身のウォレットを接続し、あなたのETHアドレスを認証してください。"Verify using Metamask" というリンクをクリックすることで認証ができます。
-  - 注意: botと同じ名前を名乗ったscamユーザーがあなたのウォレットの中身を盗むためにメッセージを送ってくる場合があります。偽物のサービスに誘導してウォレットを接続するよう促してきます。正しいbotは`conivise-bot#4309`です。
-  - 注意: 通常、botとコミュニケーションを取らない場合は"Allow direct messages from server members"を無効にしておくのが良いです。この設定はウインドウ左上の`Henkaku`をクリックしたときに表示される`Privacy Settings`内で見つけることができます。初期設定ではDMをブロックしている可能性があるので`conivise-bot`からのリンクを受け取るために[こちら](https://support.discord.com/hc/ja/articles/217916488-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E8%A8%AD%E5%AE%9A)を参考に許可してください。
-  DiscordにMetaMaskが連携できたら、コミュニティーのメンバーから$HENAKUトークンを受け取ることができるようになります。
+  - 注意: botと同じ名前を名乗ったscamユーザーがあなたのウォレットの中身を盗むためにメッセージを送ってくる場合があります。偽物のサービスに誘導してウォレットを接続するよう促してきます。正しいbotは`coinvise-bot#4309`です。
+  - 注意: 通常、botとコミュニケーションを取らない場合は"Allow direct messages from server members"を無効にしておくのが良いです。この設定はウインドウ左上の`Henkaku`をクリックしたときに表示される`Privacy Settings`内で見つけることができます。初期設定ではDMをブロックしている可能性があるので`coinvise-bot`からのリンクを受け取るために[こちら](https://support.discord.com/hc/ja/articles/217916488-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E8%A8%AD%E5%AE%9A)を参考に許可してください。
+  DiscordにMetaMaskが連携できたら、コミュニティーのメンバーから$HENKAKUトークンを受け取ることができるようになります。
 - 受け取った$HENKAKUトークンを受け渡すために、$MATICトークンで手数料を支払う必要があります。現在のところ、日本で$MATICを入手するのは難しいです。Discordにいる誰かが持っているので、必要であれば発言してください。または[faucet](https://matic.supply/)を使ってみてください。手数料はとても少額なので、$HENKAKUを受け渡すのにたくさんの$MATICが必要ではありません。
 
 ## $HENKAKUトークンの利用用途
