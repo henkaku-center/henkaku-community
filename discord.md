@@ -43,7 +43,7 @@ You will need to get some $HENKAKU, some $MATIC and !register in the join  chann
 
 ### \# 👋│welcome
 
-Welcome! Please read the rules and then click the :thumbsup: reaction to gain access to the rest of the channels. 
+Welcome! Please read the rules and then click the :thumbsup: reaction to gain access to the rest of the channels.
 
 ---
 
@@ -88,9 +88,9 @@ Agree to the rules by clicking the 👍 reaction at the bottom of this message a
 
 $HENKAKU Token に付いて：　https://henkaku.gitbook.io/community/henkaku-token-ja
 About the $HENKAKU Token: https://henkaku.gitbook.io/community/henkaku-token
-Proposals and Polls on Snapshot / 提案や安慶を作ったり投票する：https://snapshot.org/#/henkaku.eth/
+Proposals and Polls on Snapshot / 提案やアンケートを作ったり投票する：https://snapshot.org/#/henkaku.eth/
 
 Quests:
 - Start a Poll : https://www.coinvise.co/quest/8393cc4c-e5e8-4849-adaa-6a17c2697cdc
 - Tip Someone: https://www.coinvise.co/quest/a6a8af84-3f3d-4314-a494-fb9015d4bac3
-- 
+-
