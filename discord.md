@@ -22,10 +22,10 @@ henkaku.org/伊藤穰一のポッドキャスト実験サーバーへようこ�
 
 1 - まず、# 👋welcome チャンネルのルールを読み、同意できる方は 👍 を押してください。こうすることで、他のチャンネルにアクセスすることが可能となります。
 
-2 - その後、join に進み（ https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613 ）、アセットの確認/web3ウォレットの接続を @Collab.Land で行ってください。 @Collab.Land は、あなたの保有しているNFTを確認し、NFTに紐づくアクセス権や役割を与えるbotになります。まずは、我々のサーバーが保有NFTを確認することを許可してください。
+2 - その後、join に進み（ [https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613](https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613) ）、アセットの確認/web3ウォレットの接続を @Collab.Land で行ってください。 @Collab.Land は、あなたの保有しているNFTを確認し、NFTに紐づくアクセス権や役割を与えるbotになります。まずは、我々のサーバーが保有NFTを確認することを許可してください。
 
 3 - generalで自己紹介をしてください。
-$HENKAKUトークンについて書かれたページ（ https://henkaku.gitbook.io/community/henkaku-token-ja ）を読んで、実験への参加に興味があるかどうかを @Admin に知らせてください。
+$HENKAKUトークンについて書かれたページ（ [https://henkaku.gitbook.io/community/henkaku-token-ja](https://henkaku.gitbook.io/community/henkaku-token-ja) ）を読んで、実験への参加に興味があるかどうかを @Admin に知らせてください。
 
 4 - チップ交換に参加するには、$HENKAKUと$MATICを入手し、 join チャンネルで!registerと入力して @coinvise-bot に登録する必要があります。
 
@@ -33,11 +33,11 @@ Welcome to the henkaku.org/Joi Ito's Podcast experimental server.
 
 1 - First, read the rules on the 👋│welcome  channel and agree to them with a 👍 to gain access to other channels.
 
-2 - Then, go to join  ( https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613 ) and verify your assets/connect your web3 wallet with @Collab.Land and allow our server to see which NFTs you have and give you access and roles linked to the NFTs.
+2 - Then, go to join  ( [https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613](https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613) ) and verify your assets/connect your web3 wallet with @Collab.Land and allow our server to see which NFTs you have and give you access and roles linked to the NFTs.
 
 3 - Introduce yourself on general.
 
-4 - Read about $HENKAKU tokens https://henkaku.gitbook.io/community/henkaku-token and let any @Admin know if you're interested in participating in the experiment.
+4 - Read about $HENKAKU tokens [https://henkaku.gitbook.io/community/henkaku-token](https://henkaku.gitbook.io/community/henkaku-token) and let any @Admin know if you're interested in participating in the experiment.
 
 You will need to get some $HENKAKU, some $MATIC and !register in the join  channel with @coinvise-bot to exchange tips.
 
@@ -86,11 +86,11 @@ Agree to the rules by clicking the 👍 reaction at the bottom of this message a
 
 ### \# 🔗│links
 
-- $HENKAKU Token に付いて： https://henkaku.gitbook.io/community/henkaku-token-ja
-- About the $HENKAKU Token: https://henkaku.gitbook.io/community/henkaku-token
-- Proposals and Polls on Snapshot / 提案やアンケートを作ったり投票する：https://snapshot.org/#/henkaku.eth/
+- $HENKAKU Token に付いて： [https://henkaku.gitbook.io/community/henkaku-token-ja](https://henkaku.gitbook.io/community/henkaku-token-ja)
+- About the $HENKAKU Token: [https://henkaku.gitbook.io/community/henkaku-token](https://henkaku.gitbook.io/community/henkaku-token)
+- Proposals and Polls on Snapshot / 提案やアンケートを作ったり投票する：[https://snapshot.org/#/henkaku.eth/](https://snapshot.org/#/henkaku.eth/)
 
 Quests:
-- Start a Poll : https://www.coinvise.co/quest/8393cc4c-e5e8-4849-adaa-6a17c2697cdc
-- Tip Someone: https://www.coinvise.co/quest/a6a8af84-3f3d-4314-a494-fb9015d4bac3
+- Start a Poll : [https://www.coinvise.co/quest/8393cc4c-e5e8-4849-adaa-6a17c2697cdc](https://www.coinvise.co/quest/8393cc4c-e5e8-4849-adaa-6a17c2697cdc)
+- Tip Someone: [https://www.coinvise.co/quest/a6a8af84-3f3d-4314-a494-fb9015d4bac3](https://www.coinvise.co/quest/a6a8af84-3f3d-4314-a494-fb9015d4bac3)
 
