@@ -4,3 +4,5 @@
 * [The Henkaku Token](henkaku-token.md)
 * [変革会のトークン](henkaku-token-ja.md)
 * [Discord](discord.md)
+* [FAQ (English)](faq.md)
+* [FAQ (日本語)](faq-ja.md)
