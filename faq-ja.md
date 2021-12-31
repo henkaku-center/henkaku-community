@@ -2,7 +2,7 @@
 
 ## Coinvise botについて
 
-### Q: チップコマンドを送ったら「Invalid format」が帰ってきました
+### Q: チップコマンドを送ったら「Invalid format」が返ってきました
 
 1. 形式が正しかったか確認してください: `c!tip @tippee henkaku matic 10` （@user_to_tipはチップを受けるDiscordユーザーで、10は差し上げる$HENKAKUの数です）
 1. `c!register 0x...`をもう一度送ってください。0x...はあなたのEthereumアドレスです
