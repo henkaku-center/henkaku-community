@@ -7,3 +7,5 @@
 * [Discord](discord.md)
 * [FAQ (English)](faq.md)
 * [FAQ (日本語)](faq-ja.md)
+* [For Git Contributers (English)](git-contribute.md)
+* [For Git Contributers (日本語)](git-contribute-ja.md)
