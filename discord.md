@@ -24,7 +24,7 @@ henkaku.org/伊藤穰一のポッドキャスト実験サーバーへようこ�
 
 1 - まず、# 👋 | welcome チャンネルのルールを読み、同意できる方は 👍 を押してください。こうすることで、他のチャンネルにアクセスすることが可能となります。
 
-2 - その後、# ✅  | join に進み（ [https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613](https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613) ）、アセットの確認/web3ウォレットの接続を @Collab.Land で行ってください。 @Collab.Land は、あなたの保有しているNFTを確認し、NFTに紐づくアクセス権や役割を与えるbotになります。まずは、我々のサーバーが保有NFTを確認することを許可してください。
+2 - その後、 #collabland-join  に進み、アセットの確認/web3ウォレットの接続を @Collab.Land#6372 で行ってください。 @Collab.Land#6372 は、あなたの保有しているNFTを確認し、NFTに紐づくアクセス権や役割を与えるbotになります。まずは、我々のサーバーが保有NFTを確認することを許可してください。
 
 3 - # 👋 | introsで自己紹介をしてください。
 $HENKAKUトークンについて書かれたページ（ [https://henkaku.gitbook.io/community/henkaku-token-ja](https://henkaku.gitbook.io/community/henkaku-token-ja) ）を読んで、実験への参加に興味があるかどうかを @Admin に知らせてください。
@@ -35,7 +35,7 @@ Welcome to the henkaku.org/Joi Ito's Podcast experimental server.
 
 1 - First, read the rules on the # 👋 │ welcome  channel and agree to them with a 👍 to gain access to other channels.
 
-2 - Then, go to # ✅ | join ( [https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613](https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613) ) and verify your assets/connect your web3 wallet with @Collab.Land and allow our server to see which NFTs you have and give you access and roles linked to the NFTs.
+2 - Then, go to #collabland-join  and verify your assets/connect your web3 wallet with @Collab.Land#6372 and allow our server to see which NFTs you have and give you access and roles linked to the NFTs.
 
 3 - Introduce yourself on # 👋 | intros.
 
