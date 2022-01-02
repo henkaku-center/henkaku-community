@@ -22,18 +22,18 @@ henkaku.org/伊藤穰一のポッドキャスト実験サーバーへようこ�
 - 下記のステップを実行して、HenkakuのDiscordに参加してください。
 - オンボーディングのプロセスを円滑に実行するために、PCから下記の操作を行なってください（ChromeもしくはBraveを推奨しています）🚀
 
-1 - まず、# 👋welcome チャンネルのルールを読み、同意できる方は 👍 を押してください。こうすることで、他のチャンネルにアクセスすることが可能となります。
+1 - まず、#👋 | welcome チャンネルのルールを読み、同意できる方は 👍 を押してください。こうすることで、他のチャンネルにアクセスすることが可能となります。
 
-2 - その後、join に進み（ [https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613](https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613) ）、アセットの確認/web3ウォレットの接続を @Collab.Land で行ってください。 @Collab.Land は、あなたの保有しているNFTを確認し、NFTに紐づくアクセス権や役割を与えるbotになります。まずは、我々のサーバーが保有NFTを確認することを許可してください。
+2 - その後、#✅ | join に進み（ [https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613](https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613) ）、アセットの確認/web3ウォレットの接続を @Collab.Land で行ってください。 @Collab.Land は、あなたの保有しているNFTを確認し、NFTに紐づくアクセス権や役割を与えるbotになります。まずは、我々のサーバーが保有NFTを確認することを許可してください。
 
-3 - generalで自己紹介をしてください。
+3 - #👋 | introsで自己紹介をしてください。
 $HENKAKUトークンについて書かれたページ（ [https://henkaku.gitbook.io/community/henkaku-token-ja](https://henkaku.gitbook.io/community/henkaku-token-ja) ）を読んで、実験への参加に興味があるかどうかを @Admin に知らせてください。
 
 4 - チップ交換に参加するには、$HENKAKUと$MATICを入手し、 join チャンネルで!registerと入力して @coinvise-bot に登録する必要があります。
 
 Welcome to the henkaku.org/Joi Ito's Podcast experimental server.
 
-1 - First, read the rules on the 👋│welcome  channel and agree to them with a 👍 to gain access to other channels.
+1 - First, read the rules on the #👋│welcome  channel and agree to them with a 👍 to gain access to other channels.
 
 2 - Then, go to join  ( [https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613](https://discord.com/channels/913694033031864350/916236465187455018/916236466147950613) ) and verify your assets/connect your web3 wallet with @Collab.Land and allow our server to see which NFTs you have and give you access and roles linked to the NFTs.
 
