@@ -17,7 +17,7 @@ Breaching any of the following rules will cause the member to be banned from the
 * Members providing services, objects or access to information or communications may not provide anything that can also be purchases for money. For example, any events which can be attended by spending tokens may not also sell access for money. Any items given in exchange for token may not be items that can be purchased for money. In particular, purchase and sales of the token for cash or exchanging the token with cryptocurrencies are strictly prohibited.
 
 ## How To Get Tokens
-
+* From your PC, please follow the steps below (Chrome and Brave are recommended).
 * In order to join the community, please fill out [this form](https://airtable.com/shrO7yOVqbeymYSOW) and provide your ETH address. If you don't have a wallet, please install [MetaMask](https://metamask.io) or the equivalent. Instructions in Japanese [here](https://joi.ito.com/jp/archives/2021/11/08/005731.html).
 * You must have Polygon configured on your wallet. You can see instructions for MetaMask [here](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
   * Open MetaMask and click on the Network Selection drop-down.
