@@ -10,4 +10,5 @@
  > `[The Henkaku Token](henkaku-token.md)`  
  >：  
  >`[New Markdown File](new-markdown-file.md)` ⇦ New File
-- Instead of asking admins to give you a permission for pull request, you can simply fork the repo and push changes to your own repo. You can then make pull request.
+
+- Instead of asking admins to give you push access, you can simply fork the repo and push changes to your own repo. You can then make pull request.
