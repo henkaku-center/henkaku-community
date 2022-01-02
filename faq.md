@@ -4,8 +4,13 @@
 
 ### Q: The Coinvise bot replied to my tipping command with "Invalid format"
 
-1. Confirm that the format was correct: `/tip token:henkaku network: Matic/Polygon user:@user_to_tip amount:10` where `@user_to_tip` is the Discord user to receive the tip, and `10` is the amount of `$HENKAKU` that you want to give them
-1. Send `c!register 0x...` again, where `0x...` is your Ethereum address
+1. Confirm that the format was correct:.
+  - Tip command: `/tip token:henkaku network: Matic/Polygon user:@user_to_tip amount:10`
+  - `@user_to_tip` is the Discord user to receive the tip
+  - `10` is the amount of `$HENKAKU` that you want to give them
+1. If the command's format was correct but you still got "Invalid format":
+  - Send `c!register 0x...` again
+  - `0x...` is your Ethereum address
 1. @coinvise-bot will send you a DM with a link for you to complete verification using your wallet (at no ETH or MATIC cost)
 1. Retry the tip command after doing so
 
