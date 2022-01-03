@@ -38,7 +38,17 @@ Breaching any of the following rules will cause the member to be banned from the
 * Once MetaMask is linked to Discord, community members can give you $HENKAKU tokens.
 * In order to transfer $HENKAKU after you receive some, you will need $MATIC to pay for the gas/transaction fee. Currently, it is difficult to get in Japan so please ask someone on Discord to give you some or [try a faucet](https://matic.supply). The transaction fees are very low so you don't need very much to be able to give $HENKAKU to others.
 
-## How To Use Token
+## How To Use Tokens
 
 * We are using [snapshots.org](https://snapshot.org/#/henkaku.eth/) to create and vote on community proposals.
-* snapshot is only available to token holders.
+  * Snapshot is only available to token holders.
+
+* You can tip people using $HENKAKU for their help or contributions. You will need a little MATIC to pay the gas for the transaction, in addition to the $HENKAKU you will give away.
+  * Use `@Coinvise Bot#9566`. Type a slash `/` on any channel (pasting whole bot commands doesn't work for slash-using bots) and use `/help` to see what you can do. If you see `/help` commands from more than one bot, the Coinvise one is the one with a grayscale door on an orange gradient.
+  * First you will need to `/register` once.
+  * Then you can give or receive tips. Use `/tip` to tip, and choose the following arguments:
+    * `token:` henkaku
+    * `network:` Matic/Polygon
+    * `user:` who you want to receive a tip
+    * `amount:` the amount you want to give them
+  * `@Coinvise Bot#9566` will DM you with a link you will need to visit to confirm the transaction with your Metamask wallet

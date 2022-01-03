@@ -5,9 +5,9 @@
 ### Q: チップコマンドを送ったら"Invalid format"が返ってきました。何が原因なのでしょうか？
 
 1. 下記を参照して、チップコマンドの形式が正しかったか確認してください。
-   - チップコマンド：`/tip token:henkaku network: Matic/Polygon user:@user_to_tip amount:10`
-   - `@user_to_tip`＝チップを受けるDiscordユーザーのID
-   - `10`＝チップされる`$HENKAKU`の数
+    - チップコマンド：`/tip token:henkaku network: Matic/Polygon user:@user_to_tip amount:10`
+    - `@user_to_tip`＝チップを受けるDiscordユーザーのID
+    - `10`＝チップされる`$HENKAKU`の数
 2. チップコマンドが正しいにも関わらず`Invalid format`が返ってくる場合：
     -  `join`チャンネルで`c!register 0x...`をもう一度実行
     - `0x...`＝あなたのEthereumアドレス
