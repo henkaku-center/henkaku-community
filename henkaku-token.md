@@ -45,10 +45,10 @@ Breaching any of the following rules will cause the member to be banned from the
 
 * You can tip people using $HENKAKU for their help or contributions. You will need a little MATIC to pay the gas for the transaction, in addition to the $HENKAKU you will give away.
   * Use `@Coinvise Bot#9566`. Type a slash `/` on any channel (pasting whole bot commands doesn't work for slash-using bots) and use `/help` to see what you can do. If you see `/help` commands from more than one bot, the Coinvise one is the one with a grayscale door on an orange gradient.
-  * First you will need to `/register` once.
+  * First you will need to use `/register` once, and follow the instructions on the bot's DM.
   * Then you can give or receive tips. Use `/tip` to tip, and choose the following arguments:
     * `token:` henkaku
     * `network:` Matic/Polygon
-    * `user:` who you want to receive a tip
-    * `amount:` the amount you want to give them
+    * `user:` the Discord user you want to receive your tip
+    * `amount:` the amount of $HENKAKU you want to give them
   * `@Coinvise Bot#9566` will DM you with a link you will need to visit to confirm the transaction with your Metamask wallet
