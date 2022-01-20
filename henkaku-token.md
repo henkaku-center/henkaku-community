@@ -18,7 +18,8 @@ Breaching any of the following rules will cause the member to be banned from the
 
 ## How To Get Tokens
 * From your PC, please follow the steps below (Chrome and Brave are recommended).
-* In order to join the community, please fill out [this form](https://airtable.com/shrO7yOVqbeymYSOW) and provide your ETH address. If you don't have a wallet, please install [MetaMask](https://metamask.io) or the equivalent. Instructions in Japanese [here](https://joi.ito.com/jp/archives/2021/11/08/005731.html).
+* In order to join the community, please fill out [Entry-Form]（https://airtable.com/shrbDbYUBoFgkg0tY)and provide your ETH address. If you have already filled out the entry form, please skip this step and proceed to the next.
+  * If you don't have a wallet, please install [MetaMask](https://metamask.io) or the equivalent. Instructions in Japanese [here](https://joi.ito.com/jp/archives/2021/11/08/005731.html).
 * You must have Polygon configured on your wallet. You can see instructions for MetaMask [here](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
   * Open MetaMask and click on the Network Selection drop-down.
   * Select Custom RPC and enter the following information.

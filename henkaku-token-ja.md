@@ -18,7 +18,8 @@ $HENKAKU トークン(以下、トークン)は、変革会コミュニティの
 
 ## $HENKAKUトークンの入手方法
 * PCから下記の操作を行なってください（ChromeもしくはBraveを推奨しています）。
-* コミュニティメンバーになるには、[フォーム](https://airtable.com/shrO7yOVqbeymYSOW)に必要事項とあなたのETHアドレスを入力してください。 ウォレットをお持ちでない場合は、MetaMaskまたは同等のものをインストールしてください。 [日本語での説明はこちら](https://joi.ito.com/jp/archives/2021/11/08/005731.html)。
+* コミュニティメンバーになるには、[エントリーフォーム](https://airtable.com/shrbDbYUBoFgkg0tY)に必要事項とあなたのETHアドレスを入力してください。すでに入力がお済みの方は、次のステップにお進みください。
+  * ウォレットをお持ちでない場合は、MetaMaskまたは同等のものをインストールしてください。 [日本語での説明はこちら](https://joi.ito.com/jp/archives/2021/11/08/005731.html)。
 * トークンを受け取る前にウォレットにPolygon用の設定が必要な場合があります。MetaMaskウォレットを使用されている場合、[こちらに説明があります](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)。
   * MetaMaskを開いたらネットワーク選択のドロップダウンをクリックします
   * Custom RPCを選択して下記情報を入れます
