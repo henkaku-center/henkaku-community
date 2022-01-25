@@ -9,9 +9,9 @@
     - `@user_to_tip` is the Discord user to receive the tip
     - `10` is the amount of `$HENKAKU` that you want to give them
 1. If the command's format was correct but you still got "Invalid format":
-    - Send `c!register 0x...` again
+    - Send `/register 0x...` on the `#💰│tipping` channel again
     - `0x...` is your Ethereum address
-1. @coinvise-bot will send you a DM with a link for you to complete verification using your wallet (at no ETH or MATIC cost)
+1. `@Coinvise Bot#9566` will send you a DM with a link for you to complete verification using your wallet (at no ETH or MATIC cost)
 1. Retry the tip command after doing so
 
 ## About Snapshot and proposals
