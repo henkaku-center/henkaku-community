@@ -1,13 +1,17 @@
 # README
 
 ## Discord Information
+
 * [Discord Assistants (Bots)](discord.md)
+
 ## Official Documents in English
-* [The Henkaku Token](henkaku-token.md)
-* [FAQ (English)](faq.md)
-* [For Git Contributors (English)](git-contribute.md)
+
+* [The Henkaku Token](broken-reference)
+* [FAQ (English)](broken-reference)
+* [For Git Contributors (English)](broken-reference)
 
 ## Official Documents in Japanese
-* [変革会のトークン](henkaku-token-ja.md)
-* [FAQ (日本語)](faq-ja.md)
-* [For Git Contributors (日本語)](git-contribute-ja.md)
+
+* [変革会のトークン](broken-reference)
+* [FAQ (日本語)](broken-reference)
+* [For Git Contributors (日本語)](broken-reference)

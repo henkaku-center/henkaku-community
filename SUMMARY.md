@@ -2,15 +2,11 @@
 
 * [README](README.md)
 * [Discord Assistants (Bots)](discord.md)
-
----
-
-* [The Henkaku Token](henkaku-token.md)
-* [FAQ (English)](faq.md)
-* [For Git Contributors (English)](git-contribute.md)
-
----
-
-* [変革会のトークン](henkaku-token-ja.md)
-* [FAQ (日本語)](faq-ja.md)
-* [For Git Contributors (日本語)](git-contribute-ja.md)
+* [English](english/README.md)
+  * [The Henkaku Token](english/henkaku-token.md)
+  * [FAQ (English)](english/faq.md)
+  * [For Git Contributors (English)](english/git-contribute.md)
+* [日本語](ri-ben-yu/README.md)
+  * [変革会のトークン](ri-ben-yu/henkaku-token-ja.md)
+  * [FAQ (日本語)](ri-ben-yu/faq-ja.md)
+  * [For Git Contributors (日本語)](ri-ben-yu/git-contribute-ja.md)
